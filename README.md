@@ -9,4 +9,4 @@ I enjoy building web applications, AI-Agents products, automations, and open-sou
 - 🌱 Always learning and experimenting
 - 🎮 Minecraft player & curious builder
 
-🌐 Portfolio: https://lalitm.me
+🌐 Portfolio: https://m.lalitm.me

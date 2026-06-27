@@ -1,6 +1,6 @@
 # Hi, I'm Lalit 👋
 
-Software Engineer and Full Stack Developer from India.
+Software Engineer and Full Stack Developer from Berlin.
 
 I enjoy building web applications, AI-Agents products, automations, and open-source projects. Currently exploring AI agents, product development, and digital businesses.
 
